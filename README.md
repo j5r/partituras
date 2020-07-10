@@ -21,10 +21,10 @@
       - [[Baixo]](licoes/licao01/Lição_01eb-Baixo.pdf)
   - **MIDI**
     - [[_TodosS_]](licoes/licao01/Lição_01c-Baixo.mid)
-    - [[Soprano]](https://raw.githubusercontent.com/j5r/partituras/master/licoes/licao01/Lição_01c-Soprano.mid)
-    - [[Contralto]](https://raw.githubusercontent.com/j5r/partituras/master/licoes/licao01/Lição_01c-Contralto.mid)
-    - [[Tenor]](https://raw.githubusercontent.com/j5r/partituras/master/licoes/licao01/Lição_01c-Tenor.mid)
-    - [[Baixo]](https://raw.githubusercontent.com/j5r/partituras/master/licoes/licao01/Lição_01c-Baixo.mid)
+    - [[Soprano]](licoes/licao01/Lição_01c-Soprano.mid)
+    - [[Contralto]](licoes/licao01/Lição_01c-Contralto.mid)
+    - [[Tenor]](licoes/licao01/Lição_01c-Tenor.mid)
+    - [[Baixo]](licoes/licao01/Lição_01c-Baixo.mid)
 
 ---
 
