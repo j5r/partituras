@@ -1,6 +1,21 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+*{
+  font-family: Dancing Script, cursive;
+  background-color: #003;
+  color: #ddf;
+  }
+  a {
+  color: #bbf;
+  }
+  a:hover{
+  color: #fbb;
+  }
+</style>
+
 # Partituras para estudo musical
 
-## [[Lição 1]](licoes/licao01)
+## Lição 01
   - **Dó**
     - [[_PDF_]](licoes/licao01/Lição_01c-Partitura_e_Partes.pdf)
       - [[Soprano]](licoes/licao01/Lição_01c-Soprano.pdf)
