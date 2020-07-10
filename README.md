@@ -1,6 +1,6 @@
 # Partituras para estudo musical
 
-- [[Lição 1]](licoes/licao01)
+## [[Lição 1]](licoes/licao01)
   - **Dó**
     - [[_PDF_]](licoes/licao01/Lição_01c-Partitura_e_Partes.pdf)
       - [[Soprano]](licoes/licao01/Lição_01c-Soprano.pdf)
@@ -26,7 +26,7 @@
     - [[Tenor]](https://raw.githubusercontent.com/j5r/partituras/master/licoes/licao01/Lição_01c-Tenor.mid)
     - [[Baixo]](https://raw.githubusercontent.com/j5r/partituras/master/licoes/licao01/Lição_01c-Baixo.mid)
 
-
+---
 
 
 
