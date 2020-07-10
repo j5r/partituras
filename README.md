@@ -1,16 +1,14 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
-  root{
-  --cor-de-fundo: #003;
-  }
+  
 *{
   font-family: Fondamento, cursive;
-  background-color: var(--cor-de-fundo);
+  background-color: #003;
   color: #ddf;
   }
   
   html,body{
-  background-color: var(--cor-de-fundo);
+  background-color: #003;
   }
   
   a {
