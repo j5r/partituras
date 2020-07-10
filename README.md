@@ -9,7 +9,9 @@
   html, body{
   background-color: #004;
   }
-  
+  em{
+   color: #afa;
+  }
   a {
   color: #afa;
   font-weight: bold;
