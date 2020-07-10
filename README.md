@@ -9,9 +9,15 @@
   html, body{
   background-color: #004;
   }
+  
+  html{
+    scroll-behavior: smooth;
+    }
+    
   em{
    color: #afa;
   }
+  
   a {
   color: #afa;
   font-weight: bold;
@@ -22,9 +28,6 @@
   font-weight: bold;
   }
 </style>
-<script>
-  window.scroll({behavior:"smooth"})
-</script>
 
 # Partituras para estudos musicais
 
