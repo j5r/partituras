@@ -1,7 +1,8 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Architects+Daughter");
 *{
-  font-family: Fondamento, cursive;
+  font-family: Architects Daughter, cursive;
   background-color: #004;
   color: #ddf;
   }
