@@ -26,7 +26,7 @@
   window.scroll({behavior:"smooth"})
 </script>
 
-# Partituras para estudo musical
+# Partituras para estudos musicais
 
 ---
 
