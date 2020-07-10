@@ -1,13 +1,12 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
-  
 *{
   font-family: Fondamento, cursive;
   background-color: #003;
   color: #ddf;
   }
   
-  html,body{
+  html, body{
   background-color: #003;
   }
   
@@ -24,7 +23,10 @@
 
 # Partituras para estudo musical
 
+---
+
 ## Lição 01
+
   - **Dó**
     - [[_PDF_]](licoes/licao01/Lição_01c-Partitura_e_Partes.pdf)
       - [[Soprano]](licoes/licao01/Lição_01c-Soprano.pdf)
@@ -62,7 +64,7 @@
 
 
 
-===
+
 
 # ~modelo~
 - [[Lição 1]](licoes/licao01)
