@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
 *{
   font-family: Fondamento, cursive;
-  background-color: #003;
+  background-color: #004;
   color: #ddf;
   }
   
   html, body{
-  background-color: #003;
+  background-color: #004;
   }
   
   a {
@@ -22,6 +22,13 @@
 </style>
 
 # Partituras para estudo musical
+
+---
+
+
+Lição | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10
+------|----|----|----|----|----|----|----|----|----|----
+Link | [01](#lição-01) | [02](#lição-02) | [03](#lição-03) | [04](#lição-04) | [05](#lição-05) | [06](#lição-06) | [07](#lição-07) | [08](#lição-08) | [09](#lição-09) | [10](#lição-10) |
 
 ---
 
@@ -61,34 +68,3 @@
 
 
 
-
-
-
-
-
-# ~modelo~
-- [[Lição 1]](licoes/licao01)
-  - **Dó**
-   - [[_PDF_]](licoes/licao01/...pautaepartes)
-    - [[Soprano]](licoes/licao01/...)
-    - [[Contralto]](licoes/licao01/...)
-    - [[Tenor]](licoes/licao01/...)
-    - [[Baixo]](licoes/licao01/...)  
-  - **Si-bemol**
-   - [[_PDF_]](licoes/licao01/...pautaepartes)
-    - [[Soprano]](licoes/licao01/...)
-    - [[Contralto]](licoes/licao01/...)
-    - [[Tenor]](licoes/licao01/...)
-    - [[Baixo]](licoes/licao01/...)
-  - **Mi-bemol**
-   - [[_PDF_]](licoes/licao01/...pautaepartes)
-    - [[Soprano]](licoes/licao01/...)
-    - [[Contralto]](licoes/licao01/...)
-    - [[Tenor]](licoes/licao01/...)
-    - [[Baixo]](licoes/licao01/...)
-  - **MIDI**
-   - [[_Todos_]](licoes/licao01/...pautaepartes)
-   - [[Soprano]](licoes/licao01/...)
-   - [[Contralto]](licoes/licao01/...)
-   - [[Tenor]](licoes/licao01/...)
-   - [[Baixo]](licoes/licao01/...)
