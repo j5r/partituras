@@ -22,6 +22,9 @@
   font-weight: bold;
   }
 </style>
+<script>
+  window.scroll({behavior:"smooth"})
+</script>
 
 # Partituras para estudo musical
 
