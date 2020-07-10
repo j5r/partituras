@@ -1,10 +1,16 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
-*{
-  font-family: Dancing Script, cursive;
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+  root{
   background-color: #003;
   color: #ddf;
   }
+*{
+  font-family: Fondamento, cursive;
+  font-size: 140%;
+  background-color: #003;
+  color: #ddf;
+  }
+  
   a {
   color: #bbf;
   }
