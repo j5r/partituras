@@ -6,7 +6,6 @@
   }
 *{
   font-family: Fondamento, cursive;
-  font-size: 140%;
   background-color: #003;
   color: #ddf;
   }
