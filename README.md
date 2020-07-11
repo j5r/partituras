@@ -6,24 +6,24 @@
   background-color: #004;
   color: #ddf;
   }
-  
+
   html, body{
   background-color: #004;
   }
-  
+
   html{
     scroll-behavior: smooth;
     }
-    
+
   em{
    color: #afa;
   }
-  
+
   a {
   color: #afa;
   font-weight: bold;
   }
-  
+
   a:hover{
   color: #faa;
   font-weight: bold;
@@ -67,6 +67,42 @@ Link | [01](#lição-01) | [02](#lição-02) | [03](#lição-03) | [04](#lição
     - [[Contralto]](licoes/licao01/Lição_01c-Contralto.mid)
     - [[Tenor]](licoes/licao01/Lição_01c-Tenor.mid)
     - [[Baixo]](licoes/licao01/Lição_01c-Baixo.mid)
+
+---
+
+
+
+
+
+
+
+
+## Lição 02
+
+  - **Dó**
+    - [[_PDF_]](licoes/licao02/Lição_02c-Partitura_e_Partes.pdf)
+      - [[Soprano]](licoes/licao02/Lição_02c-Soprano.pdf)
+      - [[Contralto]](licoes/licao02/Lição_02c-Contralto.pdf)
+      - [[Tenor]](licoes/licao02/Lição_02c-Tenor.pdf)
+      - [[Baixo]](licoes/licao02/Lição_02c-Baixo.pdf)
+  - **Si-bemol**
+    - [[_PDF_ ]](licoes/licao02/Lição_02bb-Partitura_e_Partes.pdf)
+      - [[Soprano]](licoes/licao02/Lição_02bb-Soprano.pdf)
+      - [[Contralto]](licoes/licao02/Lição_02bb-Contralto.pdf)
+      - [[Tenor]](licoes/licao02/Lição_02bb-Tenor.pdf)
+      - [[Baixo]](licoes/licao02/Lição_02bb-Baixo.pdf)
+  - **Mi-bemol**
+    - [[_PDF_]](licoes/licao02/Lição_02eb-Partitura_e_Partes.pdf)
+      - [[Soprano]](licoes/licao02/Lição_02eb-Soprano.pdf)
+      - [[Contralto]](licoes/licao02/Lição_02eb-Contralto.pdf)
+      - [[Tenor]](licoes/licao02/Lição_02eb-Tenor.pdf)
+      - [[Baixo]](licoes/licao02/Lição_02eb-Baixo.pdf)
+  - **MIDI**
+    - [[_Todos_]](licoes/licao02/Lição_02c.mid)
+    - [[Soprano]](licoes/licao02/Lição_02c-Soprano.mid)
+    - [[Contralto]](licoes/licao02/Lição_02c-Contralto.mid)
+    - [[Tenor]](licoes/licao02/Lição_02c-Tenor.mid)
+    - [[Baixo]](licoes/licao02/Lição_02c-Baixo.mid)
 
 ---
 
