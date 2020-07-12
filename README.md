@@ -1,11 +1,20 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
-@import url("https://fonts.googleapis.com/css?family=Architects+Daughter");
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 *{
-  font-family: Architects Daughter, cursive;
+  font-family: Acme, sans-serif;
   background-color: #004;
   color: #ddf;
   }
+  
+h1{
+  font-family: Russo One, sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font-weight: bold;
+}
 
   html, body{
   background-color: #004;
