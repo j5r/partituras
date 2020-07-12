@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 *{
   font-family: Acme, sans-serif;
-  background-color: #004;
-  color: #ddf;
+  color: #95d88e;
   }
   
 h1{
@@ -17,24 +16,23 @@ h2{
 }
 
   html, body{
-  background-color: #004;
+  background-color: #063e00;
   }
 
   html{
     scroll-behavior: smooth;
     }
 
-  em{
-   color: #afa;
-  }
+
 
   a {
-  color: #afa;
+  color: #d49362;
   font-weight: bold;
+  transition: all 0.5s;
   }
 
   a:hover{
-  color: #faa;
+  color: #a74d8e;
   font-weight: bold;
   }
 </style>
