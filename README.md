@@ -34,7 +34,7 @@ h2{
   a:hover{
   color: #ff882c;
   font-weight: bold;
-  text-shadow: 3px 3px 10px #000;
+  text-shadow: -5px -5px 15px #000;
   }
 </style>
 
