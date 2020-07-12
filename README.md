@@ -47,7 +47,7 @@ Lição | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10
 ------|----|----|----|----|----|----|----|----|----|----
 Link | [01](#lição-01) | [02](#lição-02) | [03](#lição-03) | [04](#lição-04) | [05](#lição-05) | [06](#lição-06) | [07](#lição-07) | [08](#lição-08) | [09](#lição-09) | [10](#lição-10) |
 
-<a target="_blank" href="https://github.com/j5r/partituras/projects/1?fullscreen=true">Acompanhe o desenvolvimento</a>
+<a target="_blank" href="https://github.com/j5r/partituras/projects/1?fullscreen=true">Acompanhe o desenvolvimento das lições</a>
 
 ---
 
@@ -71,7 +71,7 @@ Link | [01](#lição-01) | [02](#lição-02) | [03](#lição-03) | [04](#lição
       - [[Contralto]](licoes/licao01/Lição_01eb-Contralto.pdf)
       - [[Tenor]](licoes/licao01/Lição_01eb-Tenor.pdf)
       - [[Baixo]](licoes/licao01/Lição_01eb-Baixo.pdf)
-  - **MIDI**
+  - **Áudio MIDI**
     - [[Todos]](licoes/licao01/Lição_01c.mid)
     - [[Soprano]](licoes/licao01/Lição_01c-Soprano.mid)
     - [[Contralto]](licoes/licao01/Lição_01c-Contralto.mid)
@@ -107,7 +107,7 @@ Link | [01](#lição-01) | [02](#lição-02) | [03](#lição-03) | [04](#lição
       - [[Contralto]](licoes/licao02/Lição_02eb-Contralto.pdf)
       - [[Tenor]](licoes/licao02/Lição_02eb-Tenor.pdf)
       - [[Baixo]](licoes/licao02/Lição_02eb-Baixo.pdf)
-  - **MIDI**
+  - **Áudio MIDI**
     - [[Todos]](licoes/licao02/Lição_02c.mid)
     - [[Soprano]](licoes/licao02/Lição_02c-Soprano.mid)
     - [[Contralto]](licoes/licao02/Lição_02c-Contralto.mid)
