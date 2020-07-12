@@ -1,7 +1,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
-*,td,th{
+*{
   font-family: Acme, sans-serif;
   color: #95d88e;
   }
@@ -15,7 +15,7 @@ h2{
   font-weight: bold;
 }
 
-  html, body{
+  html, body, td, th{
   background-color: #063e00;
   }
 
@@ -32,7 +32,7 @@ h2{
   }
 
   a:hover{
-  color: #a74d8e;
+  color: #ff882c;
   font-weight: bold;
   }
 </style>
