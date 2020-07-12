@@ -47,7 +47,7 @@ Lição | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10
 ------|----|----|----|----|----|----|----|----|----|----
 Link | [01](#lição-01) | [02](#lição-02) | [03](#lição-03) | [04](#lição-04) | [05](#lição-05) | [06](#lição-06) | [07](#lição-07) | [08](#lição-08) | [09](#lição-09) | [10](#lição-10) |
 
-<a target="_blank" href="https://github.com/j5r/partituras/projects/1?fullscreen=true">Acompanhe o meu trabalho</a>
+<a target="_blank" href="https://github.com/j5r/partituras/projects/1?fullscreen=true">Acompanhe o desenvolvimento</a>
 
 ---
 
